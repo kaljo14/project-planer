@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create ne homepage baners",
+      "details": "Lorem ipsum dolor sit amet, consectetur adip",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum dolor sit amet, consectetur adip",
+      "complete": false
+    },
+    {
+      "title": "Design a new project",
+      "details": "test test",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
